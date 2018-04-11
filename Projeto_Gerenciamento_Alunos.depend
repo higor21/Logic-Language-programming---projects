@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1511653702 source:c:\users\higor felype\google drive\ect\projeto lip\projeto_gerenciamento_alunos\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1511659505 source:c:\users\higor felype\downloads\projeto_gerenciamento_alunos\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+
